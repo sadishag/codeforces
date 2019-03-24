@@ -1,6 +1,7 @@
 # nearly_lucky_number.py
 # Name: Sadisha Galappatti
 # Date: March 17, 2019
+# codeforces link: http://codeforces.com/problemset/problem/110/A
 
 
 # read input function to read stdin and parse

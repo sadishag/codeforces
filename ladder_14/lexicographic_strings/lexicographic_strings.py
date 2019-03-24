@@ -1,6 +1,7 @@
 # lexicographic_strings.py
 # Name: Sadisha Galappatti
 # Date: March 17, 2019
+# codeforces link: http://codeforces.com/problemset/problem/112/A
 
 
 

@@ -1,6 +1,7 @@
 # tram.py
 # Name: Sadisha Galappatti
 # Date: March 22, 2019
+# codeforces link: http://codeforces.com/problemset/problem/116/A
 
 def read_input(n):
     input = []
