@@ -1,6 +1,6 @@
-# presents.py
+# amusing_joke.py
 # Name: Sadisha Galappatti
-# Date: March 13, 2019
+# Date: March 24, 2019
 # codeforces link: http://codeforces.com/problemset/problem/136/A
 
 # read input function to read stdin and parse

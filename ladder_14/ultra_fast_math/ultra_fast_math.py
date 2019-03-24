@@ -1,6 +1,6 @@
-# presents.py
+# ultra_fast_math.py
 # Name: Sadisha Galappatti
-# Date: March 13, 2019
+# Date: March 24, 2019
 # codeforces link: http://codeforces.com/problemset/problem/61/A
 
 # read input function to read stdin and parse
