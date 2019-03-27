@@ -15,13 +15,11 @@ def read_input(n):
 def main():
     n = read_input(1)
     words = read_input(int(n[0]))
-    res = []
     for i in words:
-        if len(i) > 10:
-            # res.append(i[0] + str(len(i) - 2) + i[len(i) - 1])
-            print(i[0] + str(len(i) - 2) + i[len(i) - 1])
+        i_len = len(i)
+        if i_len > 10:
+            print(i[0] + str(i_len - 2) + i[i_len - 1])
         else:
-            # res.append(i)
             print(i)
     return
 
