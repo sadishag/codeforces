@@ -39,7 +39,7 @@ def main():
     input_array = [5,12,2,4,6,1,3,7,8,10,14,12,13,11,9]
     insertion_sort(input_array)
 
-    rev_insertion_sort(input_array)
+    reverse_insertion_sort(input_array)
 
 
 
